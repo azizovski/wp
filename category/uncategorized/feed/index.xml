@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Mystical Italy</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Here the adventure began ..</description>
+	<lastBuildDate>Mon, 06 May 2024 09:53:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>My first post</title>
+		<link>/2024/05/06/my-first-post/</link>
+					<comments>/2024/05/06/my-first-post/#respond</comments>
+		
+		<dc:creator><![CDATA[aziz]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 09:53:28 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=6</guid>
+
+					<description><![CDATA[Welcome Astro is a modern frontend framework that empowers developers to build fast and efficient static websites. With Astro, developers can leverage the power of modern JavaScript frameworks like React, Vue.js, and Svelte&#160;to create dynamic user interfaces while producing static HTML, CSS, and JavaScript&#160;files during the build process. When coupled with WordPress&#160;as a headless content &#8230; <p class="link-more"><a href="/2024/05/06/my-first-post/" class="more-link">Read more<span class="screen-reader-text"> "My first post"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Welcome</h2>
+
+
+
+<p>Astro is a modern frontend framework that empowers developers to build fast and efficient <a href="https://kinsta.com/knowledgebase/what-is-a-static-website/">static websites</a>. With <a href="https://kinsta.com/blog/astro-js/">Astro</a>, developers can leverage the power of modern JavaScript frameworks like <a href="https://kinsta.com/blog/wordpress-react/">React</a>, <a href="https://kinsta.com/blog/headless-wordpress/">Vue.js</a>, and <a href="https://kinsta.com/blog/static-sveltekit/">Svelte</a>&nbsp;to create dynamic user interfaces while producing static HTML, CSS, and JavaScript&nbsp;files during the build process.</p>
+
+
+
+<p>When coupled with <a href="https://kinsta.com/wordpress/">WordPress</a>&nbsp;as a headless <a href="https://kinsta.com/knowledgebase/content-management-system/">content management system</a>&nbsp;(CMS), Astro enables seamless integration of backend APIs and frontend code, allowing for efficient development of static websites with dynamic content. This approach offers several benefits.</p>
+
+
+
+<p>Static sites generated with Astro and a WordPress backend boast superior performance. They can be served directly from a <a href="https://kinsta.com/knowledgebase/what-is-a-cdn/">content delivery network</a>&nbsp;(CDN), eliminating the need for server-side processing and resulting in faster load times and a smoother user experience.</p>
+
+
+
+<p>This tutorial guides you through the process of setting up a static site using Astro hosted on <a href="https://kinsta.com/docs/static-site-hosting">Kinsta’s Static Site Hosting</a>&nbsp;service and using WordPress for the backend.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/05/06/my-first-post/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>/2024/05/06/hello-world/</link>
+					<comments>/2024/05/06/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[aziz]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 09:50:13 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/05/06/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
