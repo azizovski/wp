@@ -11,13 +11,85 @@
 	<atom:link href="/2024/05/06/hello-world/feed/" rel="self" type="application/rss+xml" />
 	<link>/2024/05/06/hello-world/</link>
 	<description>Here the adventure began ..</description>
-	<lastBuildDate>Mon, 06 May 2024 09:50:13 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 May 2024 11:10:16 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
+		<title>
+		By: aziz		</title>
+		<link>/2024/05/06/hello-world/#comment-9</link>
+
+		<dc:creator><![CDATA[aziz]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 11:10:16 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1#comment-9</guid>
+
+					<description><![CDATA[Deploy a Static WordPress Site to Kinsta for Free
+Maciek Palmowski, April 30, 2024
+Convert wordpress site to static and host on Kinsta
+Table of Contents
+
+    What Are Static Websites?
+    The Pros of Going Static
+    The Cons of Converting to Static
+    Preliminary Steps
+    Convert Your WordPress Website to Static
+    Other Ways To Convert WP to Static
+
+Bonjour !
+
+Cet article est aussi disponible en Français.
+Visiter la version Française
+
+WordPress is an excellent Content Management System (CMS). We can achieve almost anything with it. Because of its dynamic nature, we can change any content with a click of a button. And while this is amazing, it also brings some dangers, and it can get difficult to maintain under heavy traffic.
+
+Converting your WordPress website into static might solve those problems.
+What Are Static Websites?
+
+To explain how static websites work, first, we have to understand how dynamic website works.
+
+Every time we visit a website, the server has to parse PHP files, query the database to fetch the data, and, in the end, return the rendered HTML to the browser.
+
+Static websites do all the heavy lifting first – before visiting the website, we save every page as static HTML. When we visit the desired page, the server serves it as it is.]]></description>
+			<content:encoded><![CDATA[<p>Deploy a Static WordPress Site to Kinsta for Free<br />
+Maciek Palmowski, April 30, 2024<br />
+Convert wordpress site to static and host on Kinsta<br />
+Table of Contents</p>
+<p>    What Are Static Websites?<br />
+    The Pros of Going Static<br />
+    The Cons of Converting to Static<br />
+    Preliminary Steps<br />
+    Convert Your WordPress Website to Static<br />
+    Other Ways To Convert WP to Static</p>
+<p>Bonjour !</p>
+<p>Cet article est aussi disponible en Français.<br />
+Visiter la version Française</p>
+<p>WordPress is an excellent Content Management System (CMS). We can achieve almost anything with it. Because of its dynamic nature, we can change any content with a click of a button. And while this is amazing, it also brings some dangers, and it can get difficult to maintain under heavy traffic.</p>
+<p>Converting your WordPress website into static might solve those problems.<br />
+What Are Static Websites?</p>
+<p>To explain how static websites work, first, we have to understand how dynamic website works.</p>
+<p>Every time we visit a website, the server has to parse PHP files, query the database to fetch the data, and, in the end, return the rendered HTML to the browser.</p>
+<p>Static websites do all the heavy lifting first – before visiting the website, we save every page as static HTML. When we visit the desired page, the server serves it as it is.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: aziz		</title>
+		<link>/2024/05/06/hello-world/#comment-8</link>
+
+		<dc:creator><![CDATA[aziz]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 11:09:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1#comment-8</guid>
+
+					<description><![CDATA[test]]></description>
+			<content:encoded><![CDATA[<p>test</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
 		<title>
 		By: A WordPress Commenter		</title>
 		<link>/2024/05/06/hello-world/#comment-1</link>
